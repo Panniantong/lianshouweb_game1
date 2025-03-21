@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Axiom",
+        "descri": "Query and analyze logs, traces, and event data using natural language",
+        "origi_url": "https://github.com/axiomhq/mcp-server-axiom"
+    },
+    {
+        "name": "PostgreSQL",
+        "descri": "A Model Context Protocol server that provides read-only access to PostgreSQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+        "origi_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres"
+    },
+    {
+        "name": "Kubernetes",
+        "descri": "Manage pods, deployments, and services",
+        "origi_url": "https://github.com/Flux159/mcp-server-kubernetes"
+    },
+    {
+        "name": "Obsidian",
+        "descri": "Read and search through Markdown notes in Obsidian vaults",
+        "origi_url": "https://github.com/smithery-ai/mcp-obsidian"
+    }
+]
